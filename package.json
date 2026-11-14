@@ -52,6 +52,10 @@
       "allowToChangeInstallationDirectory": true,
       "createDesktopShortcut": true,
       "createStartMenuShortcut": true
-    }
+    },
+    "asar": true
+  },
+  "engines": {
+    "node": ">=22.12.0"
   }
 }
